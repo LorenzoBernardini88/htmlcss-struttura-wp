@@ -14,17 +14,31 @@
     background-color:khaki;
     margin:20px 0px;
 }
+
 .sez2{
     height: 500px;
     background-color:royalblue;
 }
-.head_sez2{
-    height: 70px;
-    box-sizing: border-box;
-    margin-bottom: 20px;
+.head_sez2,.block1,.block2,.block3{
     background-color: skyblue;
 }
+.head_sez2{
+    height: 20%;
+    box-sizing: border-box;
+}
+.block1,.block2,.block3{
+    height: 60%;
+    float: left;
+    margin: 10% 0%;
+}
+.block1,.block3{
+    width: 30%;
+}
+.block2{
+    width: 30%;
+    margin: 0% 5%;
 
+}
 
 header{
     height: 80px;
