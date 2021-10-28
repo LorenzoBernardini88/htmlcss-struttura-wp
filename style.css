@@ -12,6 +12,7 @@
 .sez1{
     height: 300px;
     background-color:khaki;
+    margin:20px 0px;
 }
 .sez2{
     height: 400px;
@@ -26,6 +27,7 @@ header{
 footer{
     height: 50px;
     background-color: purple;
+    margin-top: 10px;
 
 }
 
