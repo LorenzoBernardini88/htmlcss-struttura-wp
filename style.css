@@ -18,9 +18,15 @@
     background-color:royalblue;
 }
 
+
 header{
     height: 80px;
     background-color:hotpink;
+}
+footer{
+    height: 50px;
+    background-color: purple;
+
 }
 
 
