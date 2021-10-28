@@ -4,11 +4,13 @@
     width: 80%;
     box-sizing: border-box;
 }
-.container::after{
+
+.sez2::after{
     content:"";
     clear: both;
     display: table;
 }
+
 .sez1{
     height: 300px;
     background-color:khaki;
@@ -19,36 +21,40 @@
     height: 500px;
     background-color:royalblue;
 }
+
 .head_sez2,.block1,.block2,.block3{
     background-color: skyblue;
 }
+
 .head_sez2{
     height: 20%;
     box-sizing: border-box;
 }
-.block1,.block2,.block3{
+
+.blocco{
     height: 60%;
     float: left;
-    margin: 10% 0%;
+    margin: 5% 0%;
 }
+
 .block1,.block3{
     width: 30%;
 }
+
 .block2{
     width: 30%;
-    margin: 0% 5%;
-
+    margin: 5% 5%;
 }
 
 header{
     height: 80px;
     background-color:hotpink;
 }
+
 footer{
     height: 50px;
     background-color: purple;
     margin-top: 10px;
-
 }
 
 
