@@ -15,8 +15,14 @@
     margin:20px 0px;
 }
 .sez2{
-    height: 400px;
+    height: 500px;
     background-color:royalblue;
+}
+.head_sez2{
+    height: 70px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    background-color: skyblue;
 }
 
 
